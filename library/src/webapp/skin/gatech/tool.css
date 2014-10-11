@@ -144,7 +144,7 @@ see: http://www.quirksmode.org/bugreports/archives/2005/07/Wrapped_inlinenowrap_
 }
 
 .navIntraTool a:visited{
-	color: #633b1b;
+	color: #fff;
 	text-decoration: none;
 	padding-left: 2px;
 	padding-right: 2px;
@@ -155,16 +155,13 @@ see: http://www.quirksmode.org/bugreports/archives/2005/07/Wrapped_inlinenowrap_
 	margin-bottom: .4em;
 	white-space: nowrap;
 	display: inline-block;
-	padding: 0px 4px;
-	background: #343538;
-	border: 4px solid #343538;
 	color: #fff;
-	border-radius: 2px;/*changed background color, border width and color, and text color. Added border-radius this changes the option button*/
-	font-weight: 400;
+	border-radius: 2px;
+	box-shadow: 2px 2px 2px black, -2px 2px 2px black;
 }
 
 .navIntraTool a:active{
-	color: #c60;
+	color: #EEB211;
 	text-decoration: none;
 	padding-left: 2px;
 	padding-right: 2px;
