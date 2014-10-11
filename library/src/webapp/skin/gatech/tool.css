@@ -161,7 +161,7 @@ see: http://www.quirksmode.org/bugreports/archives/2005/07/Wrapped_inlinenowrap_
 }
 
 .navIntraTool a:active{
-	color: #EEB211;
+	/*color: #EEB211;*/
 	text-decoration: none;
 	padding-left: 2px;
 	padding-right: 2px;
